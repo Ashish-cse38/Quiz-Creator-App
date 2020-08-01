@@ -1,4 +1,5 @@
 {
+  "start": "index.html",
   "engines": {
   	"JavaScript": "1.5"
   }
